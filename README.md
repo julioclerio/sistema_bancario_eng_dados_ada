@@ -10,7 +10,7 @@ This repository contains the final project for the Logic of Programming II cours
    ```bash
    https://github.com/julioclerio/sistema_bancario_eng_dados_ada.git
 2.  Navigate to the project directory:
-3. Open the Jupyter Notebook: financial_control_system.ipynb.
+3. Open the Jupyter Notebook: sistema_bancario_eng_dados_ada.ipynb.
 
 ## Dataset
 
@@ -43,7 +43,7 @@ A comprehensive suite of tests ensures the reliability and functionality of the 
 
 ### How to Use
 
-1. Open the Jupyter Notebook (`financial_control_system.ipynb`).
+1. Open the Jupyter Notebook (`sistema_bancario_eng_dados_ada.ipynb`).
 2. Explore the codebase, review the documentation, and execute the provided tests.
 
 ## Course Information
