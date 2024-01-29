@@ -8,11 +8,8 @@ This repository contains the final project for the Logic of Programming II cours
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/username/repo.git
-   
+   https://github.com/julioclerio/sistema_bancario_eng_dados_ada.git
 2.  Navigate to the project directory:
-   cd repo
-
 3. Open the Jupyter Notebook: financial_control_system.ipynb.
 
 ## Dataset
