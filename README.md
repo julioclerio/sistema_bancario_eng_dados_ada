@@ -11,8 +11,8 @@ This repository contains the final project for the Logic of Programming II cours
    git clone https://github.com/username/repo.git
    
 2.  Navigate to the project directory:
-```bash
-  cd repo
+   ```bash
+   cd repo
 
 3. Open the Jupyter Notebook: financial_control_system.ipynb.
 
